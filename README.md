@@ -1,4 +1,4 @@
-# Custom Implementation of Redis 🚀
+# REDIS but CUTER 🚀
 
  This project aims to provide a custom-built version of the popular in-memory data structure store, Redis.
 
